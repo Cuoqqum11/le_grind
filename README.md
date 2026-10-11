@@ -4,4 +4,4 @@ Idk I just want to practise C++ and have a way to keep track of my progress, so 
 
 ---
 
-[https://leetcode.com/u/BuiCuog/](https://leetcode.com/u/BuiCuog/)
+https://leetcode.com/u/cuoqqum11/
